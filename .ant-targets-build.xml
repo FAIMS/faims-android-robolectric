@@ -1,0 +1,5 @@
+clean
+compile
+faims-robolectric-tests
+test-report-junit
+test-run
